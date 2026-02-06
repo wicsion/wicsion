@@ -1,6 +1,6 @@
-# Middle+ Python Developer | Performance & Architecture 👋
+# Senior Python Developer 👋
 
-Backend Engineer specializing in system optimization and scalable business logic.
+Backend Engineer focused on performance, architectural clarity, and business process automation.
 
 ---
 
@@ -21,15 +21,18 @@ Backend Engineer specializing in system optimization and scalable business logic
 
 ### 🏛 Engineering Approach
 
-- **Refactoring:** Migrating complex logic to Service Layer for better testability.
-- **Performance:** Identifying slow queries and optimizing PostgreSQL databases.
-- **Reliability:** Implementing robust error handling and Celery task retries.
+- **Pragmatic Architecture:** I prefer **Service Layer** and modular patterns. Strong advocate for Clean Code, ensuring solutions remain pragmatic and aligned with business goals.
+- **Database First:** Significant focus on data schema design and query optimization (Query Profiling, Indexing).
+- **Reliability:** Following Gitflow, implementing CI/CD pipelines, and ensuring critical functionality is covered by **Pytest**.
+- **Documentation:** Always keeping OpenAPI/Swagger up-to-date; utilizing ADR (Architecture Decision Records) when necessary.
 
 ---
 
 ### 🚀 Highlights
-- **Performance:** Reduced report generation time in an ERP system from 30s to 5s.
-- **Integrations:** Developed idempotent payment processing for FinTech projects.
+
+- **Performance:** Optimized PostgreSQL operations for large-scale tables (1M+ records), reducing report generation time from 30s to <2s.
+- **Integrations:** Designed fault-tolerant integrations with payment gateways and external APIs, implementing idempotency logic and robust error handling.
+- **Legacy Refactoring:** Successfully migrated monolithic system components to a service-based model with zero downtime.
 
 ---
 
